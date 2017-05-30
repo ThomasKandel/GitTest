@@ -12,6 +12,8 @@ namespace GitTest
         {
             var ui = new ui();
             ui.Eello();
+            ui.Eello();
+            // comment
         }
     }
 }
