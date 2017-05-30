@@ -12,8 +12,7 @@ namespace GitTest
         {
             var ui = new ui();
             ui.Eello();
-            ui.Eello();
-            // comment
+            Console.Readline();  // min kommentar vi merge
         }
     }
 }
